@@ -1,1 +1,0 @@
-MetaMask,phrase,sample phrase data goes here
